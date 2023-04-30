@@ -1,0 +1,5 @@
+{
+  "image": "intel/oneapi:2023.1.0-devel-ubuntu20.04",
+  "features": {
+  }
+}
