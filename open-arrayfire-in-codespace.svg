@@ -109,7 +109,7 @@
      style="fill:url(#b);stroke-width:1.26653" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
      x="147.79424"
      y="14.069472"
      id="text13415-8"><tspan
@@ -117,10 +117,10 @@
        id="tspan13413-7"
        x="147.79424"
        y="14.069472"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff">(C++)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans';fill:#ffffff">(C++)</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:sans-serif;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
      x="147.82265"
      y="15.061501"
      id="text13415-8-3"><tspan
@@ -128,10 +128,10 @@
        id="tspan13413-7-7"
        x="147.82265"
        y="15.061501"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000">(C++)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans';fill:#000000">(C++)</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:sans-serif;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
      x="36.61285"
      y="15.152852"
      id="text13415-8-9-0"><tspan
@@ -139,10 +139,10 @@
        id="tspan13413-7-2-2"
        x="36.61285"
        y="15.152852"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000">Open in Codespace</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans';fill:#000000">Open in Codespace</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
      x="36.569603"
      y="14.163958"
      id="text13415-8-9"><tspan
@@ -150,7 +150,7 @@
        id="tspan13413-7-2"
        x="36.569603"
        y="14.163958"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff">Open in Codespace</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans';fill:#ffffff">Open in Codespace</tspan></text>
   <path
      clip-rule="evenodd"
      d="m 15.944216,2.4870581 c -4.2358,0 -7.6666993,3.4308 -7.6666993,7.6666999 0,3.3925 2.1945993,6.2579 5.2420993,7.2737 0.3833,0.0671 0.5271,-0.1629 0.5271,-0.3642 0,-0.182 -0.0096,-0.7858 -0.0096,-1.4279 -1.9262,0.3546 -2.4246,-0.4696 -2.5779,-0.9008 -0.0863,-0.2204 -0.46,-0.9008 -0.7858,-1.0829 -0.2684,-0.1438 -0.6517,-0.4984 -0.0096,-0.5079 0.6037,-0.0096 1.035,0.5558 1.1787,0.7858 0.69,1.1596 1.7921,0.8337 2.2329,0.6325 0.0671,-0.4983 0.2684,-0.8338 0.4888,-1.0254 -1.7058,-0.1917 -3.4883,-0.8529 -3.4883,-3.7853996 0,-0.8338003 0.297,-1.5238003 0.7858,-2.0605003 -0.0767,-0.1916 -0.345,-0.9775 0.0767,-2.0316 0,0 0.642,-0.2013 2.1083,0.7858 0.6133,-0.1725 1.265,-0.2587 1.9167,-0.2587 0.6516,0 1.3033,0.0862 1.9166,0.2587 1.4663,-0.9966 2.1084,-0.7858 2.1084,-0.7858 0.4216,1.0541 0.1533,1.84 0.0766,2.0316 0.4888,0.5367 0.7859,1.2171 0.7859,2.0605003 0,2.9419996 -1.7921,3.5936996 -3.498,3.7853996 0.278,0.2396 0.5175,0.6996 0.5175,1.4183 0,1.0254 -0.0095,1.8496 -0.0095,2.1083 0,0.2013 0.1437,0.4409 0.527,0.3642 3.0284,-1.0158 5.223,-3.8908 5.223,-7.2737 0,-4.2358999 -3.4309,-7.6666999 -7.6667,-7.6666999 z"

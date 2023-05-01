@@ -157,7 +157,7 @@
      style="font-size:110px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff">Open in Colab</text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.333569;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;fill:#000000;fill-opacity:0.333569;stroke:none"
      x="118.66198"
      y="14.762287"
      id="text13415-2"><tspan
@@ -165,10 +165,10 @@
        id="tspan13413-6"
        x="118.66198"
        y="14.762287"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:0.333569">(Python)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:0.333569">(Python)</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
      x="118.70545"
      y="14.006334"
      id="text13415"><tspan
@@ -176,5 +176,5 @@
        id="tspan13413"
        x="118.70545"
        y="14.006334"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff">(Python)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans';fill:#ffffff">(Python)</tspan></text>
 </svg>
