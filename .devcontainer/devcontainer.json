@@ -1,5 +1,5 @@
 {
-  "image": "intel/oneapi-runtime",
+  "build": { "dockerfile": "Dockerfile" },
   "features": {
   }
 }
