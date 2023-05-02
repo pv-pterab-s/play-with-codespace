@@ -3,8 +3,12 @@
 		"dockerfile": "Dockerfile"
 	},
 	"features": {},
+	"settings": {
+        	"terminal.integrated.defaultProfile.linux": "/bin/bash",
+        	"terminal.integrated.shell.linux": "/bin/bash"
+        },
 	"hostRequirements": {
-		"cpus": 32,
+		"cpus": 16,
 		"memory": "8gb",
 		"storage": "8gb"
 	},
@@ -21,8 +25,7 @@
 			"extensions": [
      				"ms-vscode.cpptools",
 				"ms-vscode.cpptools-extension-pack"
-       			 ]
+       			]
 		}
-	},
-
+	}
 }
