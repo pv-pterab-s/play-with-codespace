@@ -4,19 +4,25 @@
 	},
 	"features": {},
 	"hostRequirements": {
-		"cpus": 16,
+		"cpus": 32,
 		"memory": "8gb",
-		"storage": "32gb"
+		"storage": "8gb"
 	},
 	"customizations": {
 		"codespaces": {
 			"openFiles": [
 				"fft.cpp"
 			]
+		},
+		"vscode": {
+			"settings": {
+				"window.showNotificationOnLoad": true
+			},
+			"extensions": [
+     				"ms-vscode.cpptools",
+				"ms-vscode.cpptools-extension-pack"
+       			 ]
 		}
 	},
-        "extensions": [
-          "ms-vscode.cpptools",
-          "ms-vscode.cpptools-extension-pack"
-        ]
+
 }
