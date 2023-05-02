@@ -3,6 +3,10 @@
 		"dockerfile": "Dockerfile"
 	},
 	"features": {},
+	"settings": {
+        	"terminal.integrated.defaultProfile.linux": "/bin/bash",
+        	"terminal.integrated.shell.linux": "/bin/bash"
+        },
 	"hostRequirements": {
 		"cpus": 16,
 		"memory": "8gb",
