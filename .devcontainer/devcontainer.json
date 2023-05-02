@@ -15,7 +15,7 @@
 	"customizations": {
 		"codespaces": {
 			"openFiles": [
-				"fft.cpp"
+				"example.cpp"
 			]
 		},
 		"vscode": {
