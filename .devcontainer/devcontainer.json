@@ -3,31 +3,35 @@
 	"dockerfile": "Dockerfile"
     },
     "features": {},
-    "settings": {
-        "terminal.integrated.defaultProfile.linux": "/bin/bash",
-        "terminal.integrated.shell.linux": "/bin/bash"
-    },
     "hostRequirements": {
-	"cpus": 16,
-	"memory": "8gb",
-	"storage": "8gb"
+		"cpus": 16,
+		"memory": "8gb",
+		"storage": "8gb"
     },
     "customizations": {
-	"codespaces": {
-	    "openFiles": [
-		"example.cpp"
-	    ]
-	},
-	"vscode": {
-	    "settings": {
-		"window.showNotificationOnLoad": true,
-		"resmongraphical.cpuusage.style": "SquareColor"
-	    },
-	    "extensions": [
-     		"ms-vscode.cpptools",
-		"ms-vscode.cpptools-extension-pack",
-		"joshabb.resmongraphical"
-       	    ]
+		"codespaces": {
+			"openFiles": [
+				"example.cpp"
+			]
+		},
+		"vscode": {
+			"settings": {
+				"window.showNotificationOnLoad": true,
+				"resmongraphical.cpuusage.style": "SquareColor",
+				"code-runner.executorMap": {
+					"cpp": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+				},
+				"code-runner.saveAllFilesBeforeRun": true,
+				"code-runner.runInTerminal": true,
+				"extensions": [
+					"ms-vscode.cpptools",
+					"ms-vscode.cpptools-extension-pack",
+					"joshabb.resmongraphical",
+					"formulahendry.code-runner"
+				],
+				"terminal.integrated.defaultProfile.linux": "/bin/bash",
+				"C_Cpp.debugShortcut": false
+			}
+		}
 	}
-    }
 }
