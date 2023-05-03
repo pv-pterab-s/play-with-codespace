@@ -23,15 +23,16 @@
 				},
 				"code-runner.saveAllFilesBeforeRun": true,
 				"code-runner.runInTerminal": true,
-				"extensions": [
-					"ms-vscode.cpptools",
-					"ms-vscode.cpptools-extension-pack",
-					"joshabb.resmongraphical",
-					"formulahendry.code-runner"
-				],
+
 				"terminal.integrated.defaultProfile.linux": "/bin/bash",
 				"C_Cpp.debugShortcut": false
-			}
+			},
+			"extensions": [
+				"ms-vscode.cpptools",
+				"ms-vscode.cpptools-extension-pack",
+				"joshabb.resmongraphical",
+				"formulahendry.code-runner"
+			]
 		}
 	}
 }
