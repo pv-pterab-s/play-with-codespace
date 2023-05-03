@@ -1,31 +1,33 @@
 {
-	"build": {
-		"dockerfile": "Dockerfile"
+    "build": {
+	"dockerfile": "Dockerfile"
+    },
+    "features": {},
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "/bin/bash",
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "hostRequirements": {
+	"cpus": 16,
+	"memory": "8gb",
+	"storage": "8gb"
+    },
+    "customizations": {
+	"codespaces": {
+	    "openFiles": [
+		"example.cpp"
+	    ]
 	},
-	"features": {},
-	"settings": {
-        	"terminal.integrated.defaultProfile.linux": "/bin/bash",
-        	"terminal.integrated.shell.linux": "/bin/bash"
-        },
-	"hostRequirements": {
-		"cpus": 16,
-		"memory": "8gb",
-		"storage": "8gb"
-	},
-	"customizations": {
-		"codespaces": {
-			"openFiles": [
-				"example.cpp"
-			]
-		},
-		"vscode": {
-			"settings": {
-				"window.showNotificationOnLoad": true
-			},
-			"extensions": [
-     				"ms-vscode.cpptools",
-				"ms-vscode.cpptools-extension-pack"
-       			]
-		}
+	"vscode": {
+	    "settings": {
+		"window.showNotificationOnLoad": true,
+		"resmongraphical.cpuusage.style": "SquareColor"
+	    },
+	    "extensions": [
+     		"ms-vscode.cpptools",
+		"ms-vscode.cpptools-extension-pack",
+		"joshabb.resmongraphical"
+       	    ]
 	}
+    }
 }
